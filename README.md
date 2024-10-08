@@ -13,7 +13,7 @@ This is a simple To-Do List application built with React Native. Users can add a
 ## Technologies Used
 - React Native
 - TypeScript
-- FontAwesome for icons
+
 
 ## Setup Instructions
 
